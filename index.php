@@ -31,7 +31,7 @@ if(isset($_POST['cek'])){
     }
 
     else if($nilai<=81){
-    echo "bagusq ";
+    echo "baguus ";
     }
     else if($nilai<=100){
     echo "Sangat bagus ";
